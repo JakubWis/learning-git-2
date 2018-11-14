@@ -1,0 +1,25 @@
+body {
+	background-image: url("https://images.pexels.com/photos/376533/pexels-photo-376533.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+	background-size: cover;
+}
+
+.container {
+	width: 60%;
+	margin: 30px auto;
+	padding: 20px 50px;
+	background-color: rgba(0, 0, 0, 0.8);
+	color: #bfb9b9;
+	font-family: 'Allerta Stencil', sans-serif;
+}
+
+.container h1 {
+	font-family: 'Indie Flower', cursive;
+	color: #fff;
+	margin-left: 20%;
+}
+
+.container p {
+	margin-top: 40px;
+	margin-left: 20%;
+	
+}
