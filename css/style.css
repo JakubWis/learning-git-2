@@ -1,5 +1,1 @@
-body {
-  display: flex;
-}
-
-/*# sourceMappingURL=style.css.map */
+body { display: -ms-flexbox; display: flex; }
